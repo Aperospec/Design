@@ -1,0 +1,241 @@
+{
+  "checks": {
+    "s17": {
+      "historicalFile": "2026-09-06-word-image/artifacts/plate-m.png",
+      "allPixelsEqual": true,
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        48,
+        62
+      ]
+    },
+    "s24": {
+      "historicalFile": "2026-09-06-word-image/artifacts/plate-r.png",
+      "allPixelsEqual": true,
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        60
+      ]
+    },
+    "s41": {
+      "mechanicalCropOf": "s17",
+      "pixelsEqualToCrop": true,
+      "excludedFromMainAdaptationComparison": true,
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        48,
+        62
+      ]
+    },
+    "s05": {
+      "mechanicalCropOf": "s24",
+      "pixelsEqualToCrop": true,
+      "excludedFromMainAdaptationComparison": true,
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        60
+      ]
+    },
+    "s32": {
+      "lowerDiagramPixelsUnchanged": true,
+      "copyInRenderingSource": "连接需要跨过两个区域之间的间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        60
+      ]
+    },
+    "s56": {
+      "actualDifferenceBoundsFromS08": [
+        163,
+        255,
+        575,
+        458
+      ],
+      "allChangesWithinEnlargedBridge": true,
+      "copyInRenderingSource": "连接需要跨过两个区域之间的间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        48,
+        62
+      ],
+      "textLayoutRecordsUnchanged": true
+    },
+    "s08": {
+      "copyInRenderingSource": "连接需要跨过两个区域之间的间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        48,
+        62
+      ]
+    },
+    "s67": {
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 0.6656346749226006,
+      "approximateFontSizesInPixels": [
+        31.95046439628483,
+        41.26934984520124
+      ],
+      "actualBridgeSamples": {
+        "leftLanding": [
+          187,
+          76,
+          40
+        ],
+        "gap": [
+          187,
+          76,
+          40
+        ],
+        "rightLanding": [
+          187,
+          76,
+          40
+        ]
+      }
+    },
+    "s72": {
+      "copyInRenderingSource": "连接需要跨过间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 0.6656346749226006,
+      "approximateFontSizesInPixels": [
+        39.93808049535604
+      ],
+      "actualLineSamples": {
+        "leftEndpoint": [
+          255,
+          255,
+          255
+        ],
+        "gap": [
+          187,
+          76,
+          40
+        ],
+        "rightEndpoint": [
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    "s83": {
+      "copyInRenderingSource": "连接需要跨过两个区域之间的间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        48,
+        62,
+        42
+      ],
+      "actualDifferenceBoundsFromS56": [
+        184,
+        280,
+        560,
+        431
+      ],
+      "allChangesWithinExistingBridge": true
+    },
+    "s90": {
+      "copyInRenderingSource": "连接需要跨过两个区域之间的间隔",
+      "sourceCopyMatches": true,
+      "outputScale": 1,
+      "approximateFontSizesInPixels": [
+        60
+      ],
+      "lowerDiagramPixelsUnchanged": true,
+      "sourceFontSizeUnchanged": true
+    }
+  },
+  "files": {
+    "s17.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "e3293516e458f29aa278ec2e9db364c2cbbfc69880b2a56ac52d3dd0cf1219d2"
+    },
+    "s24.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "6e4571b0aa6fadf3bfb24bc3f22dc7ab13e02b47aaaee61d925a8a6e4fca7e8b"
+    },
+    "s08.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "aa13e32d6894742ab1412d0607ee12910c1e23bdc153ede850cd791cd71a75a4"
+    },
+    "s32.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "d0fab93383f9981528646a843f54558dd0971242957a5bbdea84a5858707d555"
+    },
+    "s41.png": {
+      "pixels": [
+        430,
+        660
+      ],
+      "sha256": "37fa38934d89178cb26b6536cd1e7906a349d7aa7359a4f467799962c21bc64b"
+    },
+    "s05.png": {
+      "pixels": [
+        430,
+        660
+      ],
+      "sha256": "6737185b35be5cee4aec1a5ce75069a18f9550a00ae2390f5ff4ea0709b438b9"
+    },
+    "s67.png": {
+      "pixels": [
+        430,
+        660
+      ],
+      "sha256": "b95938b2b19604941087f7101e4cfba5bec68dbaa9fca5ce25981aa75dd267ab"
+    },
+    "s72.png": {
+      "pixels": [
+        430,
+        660
+      ],
+      "sha256": "a545b4b8dde65714b3d52b6cbda7da578f00d46bb1ce5103beb4bed2c04c7260"
+    },
+    "s56.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "d27eac77531f46d3aee35ec6caa2fafd534a6f2e665dbfe36a725223a8309438"
+    },
+    "s83.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "5edc71276897ecc25694a2881e3951ef639b59fbec13abd621cb0664edc8ec2f"
+    },
+    "s90.png": {
+      "pixels": [
+        646,
+        660
+      ],
+      "sha256": "186db2b071c82f1b3cff1f69fc8365aea7cd6e1b4202b42692d15328c6115955"
+    }
+  },
+  "scope": "Actual PNG pixels plus renderer records. Source text equality is not proof of visible readability. Independent viewing records provide the separate visual assessment. No human or device test."
+}

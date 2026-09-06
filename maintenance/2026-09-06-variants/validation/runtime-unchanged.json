@@ -1,0 +1,19 @@
+{
+  "baseline": "343a0fe4d6755e7d45948bb5a89629970fdedc7f",
+  "version": "1.1.0-alpha",
+  "files": 9,
+  "baselineEqualsSourceEqualsInstalled": true,
+  "runtimeChanged": false,
+  "localLinksResolve": true,
+  "sha256": {
+    "SKILL.md": "209b06812c10be7661327291334097107cc297a34ae8317c766add143d47c665",
+    "agents/openai.yaml": "a586631ddf9fe25748253d4824c798bd074ec6ba98f8a332042a03d2386639b4",
+    "references/composition.md": "e54ebe82b9236d3b00b3f909982b2ea856ad528a62cb5e0c1ebad9c8298eace5",
+    "references/critique.md": "961ba517a640195abef72d11499ab4abfb6971971ae9d267619fbe2c8e87474c",
+    "references/image-direction.md": "92994ba0979075b7ca465d0e1187457c50dc46e0aa27b61478c5f603cc0f5d84",
+    "references/method-basis.md": "4808ec6c0592a5887349928791537e6867f7ea708cac3cfee698329bb62a1c7f",
+    "references/sequence.md": "c22720768470d255b05f546614f39e6897acb65e256beadd34d0ad98c31a253e",
+    "references/typography.md": "ab2f64d357d7f2c57f4a15950a5d39ee992fe7f5cc268ea7ac8e5da4f2bcf86e",
+    "references/visual-concept.md": "463afaefbac36c117bc592384cf3ba0f7c0bf4640c07b6a6bfce0aff30bab3e0"
+  }
+}
