@@ -1,0 +1,66 @@
+{
+  "repo_argument": "/Volumes/Projects/Design/worktrees/main",
+  "worktree_top": "/Volumes/Projects/Design/worktrees/main",
+  "git_dir": "/Volumes/Projects/Design/repository/.git/worktrees/main",
+  "git_common_dir": "/Volumes/Projects/Design/repository/.git",
+  "shares_common_repository": true,
+  "active_branch": "main",
+  "detached_head": false,
+  "head": "809a36ca3cc46a3f4f74ad7071dcc4b9c0c42070",
+  "upstream": "origin/main",
+  "selected_truth_source_remote": {
+    "name": "origin",
+    "url": "/Users/newcrown/Documents/Projects/Design/repository.git",
+    "local_path": "/Users/newcrown/Documents/Projects/Design/repository.git",
+    "path_exists": true,
+    "is_bare": true,
+    "path_looks_icloud_backed": false,
+    "refs_containing_head": [
+      "origin/main"
+    ]
+  },
+  "remote_selection_note": "Selected by --remote; independently verify that it is the sole iCloud truth source.",
+  "remotes": [
+    {
+      "name": "distribution",
+      "url": "https://github.com/Aperospec/Design.git",
+      "local_path": null,
+      "path_exists": null,
+      "is_bare": null,
+      "path_looks_icloud_backed": false,
+      "refs_containing_head": []
+    },
+    {
+      "name": "origin",
+      "url": "/Users/newcrown/Documents/Projects/Design/repository.git",
+      "local_path": "/Users/newcrown/Documents/Projects/Design/repository.git",
+      "path_exists": true,
+      "is_bare": true,
+      "path_looks_icloud_backed": false,
+      "refs_containing_head": [
+        "origin/main"
+      ]
+    }
+  ],
+  "local_branches": [
+    {
+      "name": "main",
+      "commit": "809a36ca3cc46a3f4f74ad7071dcc4b9c0c42070",
+      "upstream": "origin/main",
+      "tracking": null
+    }
+  ],
+  "worktree_list_porcelain": "worktree /Volumes/Projects/Design/repository\nHEAD 0000000000000000000000000000000000000000\nbranch refs/heads/control\n\nworktree /Volumes/Projects/Design/worktrees/main\nHEAD 809a36ca3cc46a3f4f74ad7071dcc4b9c0c42070\nbranch refs/heads/main",
+  "status_short_branch": "## main...origin/main\n?? maintenance/",
+  "environment": {
+    "cwd": "/Volumes/Projects/Design/worktrees/main",
+    "home": "/Users/newcrown"
+  },
+  "limitations": [
+    "This collector is read-only and does not fetch, push, or clone.",
+    "Remote-tracking refs may be stale until an authorized fetch is performed.",
+    "Filesystem path heuristics cannot prove organizational policy or sole-truth-source intent.",
+    "Git cannot recover untracked, ignored, external, secret, missing LFS, or missing submodule data by itself.",
+    "Classifying unpushed commits as temporary versus stable/critical requires project evidence or user confirmation."
+  ]
+}

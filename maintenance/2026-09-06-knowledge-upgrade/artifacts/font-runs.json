@@ -1,0 +1,90 @@
+[
+  {
+    "actual" : "PingFangSC-Regular",
+    "file" : "\/System\/Library\/PrivateFrameworks\/FontServices.framework\/Resources\/Reserved\/PingFangUI.ttc",
+    "length" : 49,
+    "requested" : "PingFangSC-Regular",
+    "sample" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+    "size" : 26,
+    "start" : 0,
+    "text" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+    "version" : "20.0d21e3"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 49,
+    "requested" : "STSongti-SC-Regular",
+    "sample" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+    "size" : 26,
+    "start" : 0,
+    "text" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+    "version" : "17.0d2e3"
+  },
+  {
+    "actual" : "Georgia",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Georgia.ttf",
+    "length" : 8,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 0,
+    "text" : "Georgia ",
+    "version" : "Version 5.00x-4"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 5,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 8,
+    "text" : "请求：连接",
+    "version" : "17.0d2e3"
+  },
+  {
+    "actual" : "Georgia",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Georgia.ttf",
+    "length" : 13,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 13,
+    "text" : " Bridge 2026 ",
+    "version" : "Version 5.00x-4"
+  },
+  {
+    "actual" : "TimesNewRomanPSMT",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Times New Roman.ttf",
+    "length" : 1,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 26,
+    "text" : "→",
+    "version" : "Version 5.01.4x"
+  },
+  {
+    "actual" : "Georgia",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Georgia.ttf",
+    "length" : 1,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 27,
+    "text" : " ",
+    "version" : "Version 5.00x-4"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 9,
+    "requested" : "Georgia",
+    "sample" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+    "size" : 30,
+    "start" : 28,
+    "text" : "汉字由后备字体提供",
+    "version" : "17.0d2e3"
+  }
+]

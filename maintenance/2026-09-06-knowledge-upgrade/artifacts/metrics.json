@@ -1,0 +1,1112 @@
+{
+  "digitAdvances" : [
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "0"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "1"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "2"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "3"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "4"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "5"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "6"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "7"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "8"
+    },
+    {
+      "advance" : 25.576000000000001,
+      "digit" : "9"
+    }
+  ],
+  "linebreak" : {
+    "after" : [
+      "请看《材料与结构》，",
+      "再读 Open Form 的图注。"
+    ],
+    "afterPreservesCharacters" : true,
+    "before" : [
+      "请看《材料与结构》",
+      "，再读 Open Form",
+      " 的图注。"
+    ],
+    "beforePreservesCharacters" : true,
+    "source" : "请看《材料与结构》，再读 Open Form 的图注。"
+  },
+  "numerals" : [
+    {
+      "decimalX" : 366.63600000000002,
+      "font" : "HelveticaNeue",
+      "layout" : "right",
+      "value" : "111.1"
+    },
+    {
+      "decimalX" : 341.06,
+      "font" : "HelveticaNeue",
+      "layout" : "right",
+      "value" : "888.88"
+    },
+    {
+      "decimalX" : 341.06,
+      "font" : "HelveticaNeue",
+      "layout" : "right",
+      "value" : "−7.05"
+    },
+    {
+      "decimalX" : 344,
+      "font" : "HelveticaNeue",
+      "layout" : "decimal",
+      "value" : "111.1"
+    },
+    {
+      "decimalX" : 344,
+      "font" : "HelveticaNeue",
+      "layout" : "decimal",
+      "value" : "888.88"
+    },
+    {
+      "decimalX" : 344,
+      "font" : "HelveticaNeue",
+      "layout" : "decimal",
+      "value" : "−7.05"
+    }
+  ],
+  "quantityFormulaExpectation" : {
+    "correctAreaRatio" : 2,
+    "dataRatio" : 2,
+    "faultAreaRatio" : 4,
+    "lengthRatio" : 2,
+    "status" : "formula expectations, not measured output; see pixel-measurements.json",
+    "values" : [
+      48,
+      72,
+      96
+    ]
+  },
+  "renderer" : "AppKit + CoreText; local PNG; no browser\/print\/reader test",
+  "textBounds" : [
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "01-grouping",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    01",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "01-grouping",
+      "size" : 44,
+      "text" : "标签究竟属于谁？",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "01-grouping",
+      "size" : 22,
+      "text" : "同一内容、同一字号；只改变标签位置。读图任务：把每一时段与它的说明配对。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 27,
+      "text" : "原样：间距关系含混",
+      "width" : 590,
+      "x" : 80,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 59,
+      "sheet" : "01-grouping",
+      "size" : 42,
+      "text" : "开放工作室",
+      "width" : 580,
+      "x" : 80,
+      "y" : 309
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 32,
+      "text" : "10:00—11:00",
+      "width" : 570,
+      "x" : 80,
+      "y" : 420
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 32,
+      "text" : "11:00—12:00",
+      "width" : 570,
+      "x" : 80,
+      "y" : 590
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 37,
+      "sheet" : "01-grouping",
+      "size" : 26,
+      "text" : "观察材料与工具",
+      "width" : 570,
+      "x" : 80,
+      "y" : 520
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 37,
+      "sheet" : "01-grouping",
+      "size" : 26,
+      "text" : "制作与交流",
+      "width" : 570,
+      "x" : 80,
+      "y" : 690
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 28,
+      "sheet" : "01-grouping",
+      "size" : 20,
+      "text" : "地点：工作室内",
+      "width" : 570,
+      "x" : 80,
+      "y" : 775
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 27,
+      "text" : "修订：靠近所属内容",
+      "width" : 590,
+      "x" : 770,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 59,
+      "sheet" : "01-grouping",
+      "size" : 42,
+      "text" : "开放工作室",
+      "width" : 580,
+      "x" : 770,
+      "y" : 309
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 32,
+      "text" : "10:00—11:00",
+      "width" : 570,
+      "x" : 770,
+      "y" : 420
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 38,
+      "sheet" : "01-grouping",
+      "size" : 32,
+      "text" : "11:00—12:00",
+      "width" : 570,
+      "x" : 770,
+      "y" : 590
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 37,
+      "sheet" : "01-grouping",
+      "size" : 26,
+      "text" : "观察材料与工具",
+      "width" : 570,
+      "x" : 770,
+      "y" : 470
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 37,
+      "sheet" : "01-grouping",
+      "size" : 26,
+      "text" : "制作与交流",
+      "width" : 570,
+      "x" : 770,
+      "y" : 640
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 28,
+      "sheet" : "01-grouping",
+      "size" : 20,
+      "text" : "地点：工作室内",
+      "width" : 570,
+      "x" : 770,
+      "y" : 775
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "01-grouping",
+      "size" : 18,
+      "text" : "维护试验 · 内容为合成简报。几何关系可测；能否减少实际误配仍需读者测试。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 930
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "02-quantity",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    02",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "02-quantity",
+      "size" : 44,
+      "text" : "变大，究竟大了多少？",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "02-quantity",
+      "size" : 22,
+      "text" : "合成数据：甲 48、乙 72、丙 96。三个方案保留相同数值与标签。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 34,
+      "sheet" : "02-quantity",
+      "size" : 25,
+      "text" : "半径随数值放大",
+      "width" : 384,
+      "x" : 76,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 26,
+      "sheet" : "02-quantity",
+      "size" : 19,
+      "text" : "故障样张",
+      "width" : 370,
+      "x" : 76,
+      "y" : 290
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "甲",
+      "width" : 48,
+      "x" : 76,
+      "y" : 375
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "48",
+      "width" : 70,
+      "x" : 394,
+      "y" : 373
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "乙",
+      "width" : 48,
+      "x" : 76,
+      "y" : 525
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "72",
+      "width" : 70,
+      "x" : 394,
+      "y" : 523
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "丙",
+      "width" : 48,
+      "x" : 76,
+      "y" : 675
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "96",
+      "width" : 70,
+      "x" : 394,
+      "y" : 673
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 34,
+      "sheet" : "02-quantity",
+      "size" : 25,
+      "text" : "面积随数值放大",
+      "width" : 384,
+      "x" : 530,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 26,
+      "sheet" : "02-quantity",
+      "size" : 19,
+      "text" : "保留面积表达",
+      "width" : 370,
+      "x" : 530,
+      "y" : 290
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "甲",
+      "width" : 48,
+      "x" : 530,
+      "y" : 375
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "48",
+      "width" : 70,
+      "x" : 848,
+      "y" : 373
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "乙",
+      "width" : 48,
+      "x" : 530,
+      "y" : 525
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "72",
+      "width" : 70,
+      "x" : 848,
+      "y" : 523
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "丙",
+      "width" : 48,
+      "x" : 530,
+      "y" : 675
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "96",
+      "width" : 70,
+      "x" : 848,
+      "y" : 673
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 34,
+      "sheet" : "02-quantity",
+      "size" : 25,
+      "text" : "共享基线的长度",
+      "width" : 384,
+      "x" : 984,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 26,
+      "sheet" : "02-quantity",
+      "size" : 19,
+      "text" : "用于量值比较",
+      "width" : 370,
+      "x" : 984,
+      "y" : 290
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "甲",
+      "width" : 48,
+      "x" : 984,
+      "y" : 375
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "48",
+      "width" : 70,
+      "x" : 1302,
+      "y" : 373
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "乙",
+      "width" : 48,
+      "x" : 984,
+      "y" : 525
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "72",
+      "width" : 70,
+      "x" : 1302,
+      "y" : 523
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 33,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "丙",
+      "width" : 48,
+      "x" : 984,
+      "y" : 675
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "02-quantity",
+      "size" : 24,
+      "text" : "96",
+      "width" : 70,
+      "x" : 1302,
+      "y" : 673
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "02-quantity",
+      "size" : 18,
+      "text" : "丙\/甲：数据 = 2；左图面积 = 4；中图面积 = 2；右图长度 = 2。几何核验不等于读者误差实验。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 930
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "03-type",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    03",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "03-type",
+      "size" : 44,
+      "text" : "同字号，未必同一种阅读质感",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "03-type",
+      "size" : 22,
+      "text" : "真实字体样张：同文、同尺度、同一渲染路径。字体与字号均为本试验选择。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 24,
+      "sheet" : "03-type",
+      "size" : 20,
+      "text" : "PingFangSC-Regular",
+      "width" : 592,
+      "x" : 76,
+      "y" : 245
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 67,
+      "sheet" : "03-type",
+      "size" : 48,
+      "text" : "文字也是形状",
+      "width" : 590,
+      "x" : 76,
+      "y" : 300
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 79,
+      "sheet" : "03-type",
+      "size" : 26,
+      "text" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+      "width" : 590,
+      "x" : 76,
+      "y" : 405
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 24,
+      "sheet" : "03-type",
+      "size" : 20,
+      "text" : "STSongti-SC-Regular",
+      "width" : 592,
+      "x" : 766,
+      "y" : 245
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "STSongti-SC-Regular",
+      "height" : 67,
+      "sheet" : "03-type",
+      "size" : 48,
+      "text" : "文字也是形状",
+      "width" : 590,
+      "x" : 766,
+      "y" : 300
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "STSongti-SC-Regular",
+      "height" : 79,
+      "sheet" : "03-type",
+      "size" : 26,
+      "text" : "阅读 Reading 2026：‘字形’与 spacing。\n只有实际排出来，才能看见彼此的关系。",
+      "width" : 590,
+      "x" : 766,
+      "y" : 405
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 33,
+      "sheet" : "03-type",
+      "size" : 24,
+      "text" : "实际字形来源",
+      "width" : 1200,
+      "x" : 76,
+      "y" : 692
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "Georgia",
+      "height" : 35,
+      "sheet" : "03-type",
+      "size" : 30,
+      "text" : "Georgia 请求：连接 Bridge 2026 → 汉字由后备字体提供",
+      "width" : 1200,
+      "x" : 76,
+      "y" : 742
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 28,
+      "sheet" : "03-type",
+      "size" : 20,
+      "text" : "设置中写了 Georgia，不代表所有字形来自 Georgia。详细运行字体与字符范围见 font-runs.json。",
+      "width" : 1200,
+      "x" : 76,
+      "y" : 813
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "03-type",
+      "size" : 18,
+      "text" : "两种字体均可用于本次文字；这张样张不产生普遍优胜者。未进行印刷、真实读者或光学字号轴验证。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 930
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "04-numerals",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    04",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "04-numerals",
+      "size" : 44,
+      "text" : "等宽数字，不会自动对齐小数点",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "04-numerals",
+      "size" : 22,
+      "text" : "同一字体、同一等宽数字特性；只改变比较列的对齐依据。数字字符串不变。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 40,
+      "sheet" : "04-numerals",
+      "size" : 28,
+      "text" : "右边对齐",
+      "width" : 590,
+      "x" : 80,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 550,
+      "y" : 403
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 550,
+      "y" : 535
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 550,
+      "y" : 667
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 40,
+      "sheet" : "04-numerals",
+      "size" : 28,
+      "text" : "小数点对齐",
+      "width" : 590,
+      "x" : 770,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 1240,
+      "y" : 403
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 1240,
+      "y" : 535
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 29,
+      "sheet" : "04-numerals",
+      "size" : 24,
+      "text" : "kg",
+      "width" : 90,
+      "x" : 1240,
+      "y" : 667
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "04-numerals",
+      "size" : 18,
+      "text" : "齐线\/旧式决定形态，等宽\/比例决定字宽；这些功能是否存在仍须核对实际字体。正文不因此强制等宽。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 930
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "05-linebreak",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    05",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "05-linebreak",
+      "size" : 44,
+      "text" : "一处行首标点，修在哪里？",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "05-linebreak",
+      "size" : 22,
+      "text" : "固定稿局部断行对照。保持全部字符、字体与字号；不压缩整段字距。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "原样",
+      "width" : 590,
+      "x" : 80,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "请看《材料与结构》",
+      "width" : 590,
+      "x" : 80,
+      "y" : 340
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "，再读 Open Form",
+      "width" : 590,
+      "x" : 80,
+      "y" : 405
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : " 的图注。",
+      "width" : 590,
+      "x" : 80,
+      "y" : 470
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "局部调整后",
+      "width" : 590,
+      "x" : 770,
+      "y" : 249
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "请看《材料与结构》，",
+      "width" : 590,
+      "x" : 770,
+      "y" : 340
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 40,
+      "sheet" : "05-linebreak",
+      "size" : 28,
+      "text" : "再读 Open Form 的图注。",
+      "width" : 590,
+      "x" : 770,
+      "y" : 405
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "05-linebreak",
+      "size" : 18,
+      "text" : "精确文本逐字符比较保存在 metrics.json。此处是固定版人工断行，未验证流式排版或浏览器禁则。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 723
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "HelveticaNeue",
+      "height" : 22,
+      "sheet" : "06-word-image",
+      "size" : 18,
+      "text" : "DESIGN \/ METHOD STUDIES    ·    06",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 32
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 62,
+      "sheet" : "06-word-image",
+      "size" : 44,
+      "text" : "一个句子，两种空间关系",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 73
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 30,
+      "sheet" : "06-word-image",
+      "size" : 22,
+      "text" : "同一准确文案：连接需要跨过间隔。图文并置与文字成像的构图草图。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 143
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 173,
+      "sheet" : "06-word-image",
+      "size" : 60,
+      "text" : "连接需要\n跨过间隔",
+      "width" : 550,
+      "x" : 100,
+      "y" : 275
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 67,
+      "sheet" : "06-word-image",
+      "size" : 48,
+      "text" : "连接需要",
+      "width" : 556,
+      "x" : 790,
+      "y" : 316
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 87,
+      "sheet" : "06-word-image",
+      "size" : 62,
+      "text" : "跨过间隔",
+      "width" : 385,
+      "x" : 887,
+      "y" : 491
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 32,
+      "sheet" : "06-word-image",
+      "size" : 23,
+      "text" : "图文并置",
+      "width" : 646,
+      "x" : 52,
+      "y" : 901
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Semibold",
+      "height" : 32,
+      "sheet" : "06-word-image",
+      "size" : 23,
+      "text" : "文字进入间隔",
+      "width" : 646,
+      "x" : 742,
+      "y" : 901
+    },
+    {
+      "canvasOverflow" : false,
+      "font" : "PingFangSC-Regular",
+      "height" : 25,
+      "sheet" : "06-word-image",
+      "size" : 18,
+      "text" : "概念草图，不是第三方作品改编。右侧可能更具形式联系，也可能更费解；不能凭作者解释宣称受众已读懂。",
+      "width" : 1336,
+      "x" : 52,
+      "y" : 981
+    }
+  ]
+}

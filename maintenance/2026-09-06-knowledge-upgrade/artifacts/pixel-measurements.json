@@ -1,0 +1,206 @@
+{
+  "method": "threshold actual PNG pixels in each mark's separate region; ratios approximate due to antialiasing",
+  "marks": [
+    {
+      "column": 0,
+      "row": 0,
+      "pixels": 2756,
+      "width": 60,
+      "height": 60,
+      "bounds": [
+        232,
+        360,
+        291,
+        419
+      ]
+    },
+    {
+      "column": 0,
+      "row": 1,
+      "pixels": 6188,
+      "width": 88,
+      "height": 88,
+      "bounds": [
+        218,
+        496,
+        305,
+        583
+      ]
+    },
+    {
+      "column": 0,
+      "row": 2,
+      "pixels": 11056,
+      "width": 118,
+      "height": 118,
+      "bounds": [
+        203,
+        631,
+        320,
+        748
+      ]
+    },
+    {
+      "column": 1,
+      "row": 0,
+      "pixels": 2812,
+      "width": 60,
+      "height": 60,
+      "bounds": [
+        686,
+        360,
+        745,
+        419
+      ]
+    },
+    {
+      "column": 1,
+      "row": 1,
+      "pixels": 4208,
+      "width": 74,
+      "height": 74,
+      "bounds": [
+        679,
+        503,
+        752,
+        576
+      ]
+    },
+    {
+      "column": 1,
+      "row": 2,
+      "pixels": 5600,
+      "width": 84,
+      "height": 84,
+      "bounds": [
+        674,
+        648,
+        757,
+        731
+      ]
+    },
+    {
+      "column": 2,
+      "row": 0,
+      "pixels": 4268,
+      "width": 97,
+      "height": 44,
+      "bounds": [
+        1057,
+        368,
+        1153,
+        411
+      ]
+    },
+    {
+      "column": 2,
+      "row": 1,
+      "pixels": 6468,
+      "width": 147,
+      "height": 44,
+      "bounds": [
+        1056,
+        518,
+        1202,
+        561
+      ]
+    },
+    {
+      "column": 2,
+      "row": 2,
+      "pixels": 8668,
+      "width": 197,
+      "height": 44,
+      "bounds": [
+        1056,
+        668,
+        1252,
+        711
+      ]
+    }
+  ],
+  "rasterRatios": [
+    4.011611030478955,
+    1.9914651493598863,
+    2.0309278350515463
+  ],
+  "numeralDecimalSpreadPx": {
+    "right": 25.576000000000022,
+    "decimal": 0
+  },
+  "fontRunsMatchDisplayedSample": true,
+  "linebreakCharactersPreserved": true,
+  "files": {
+    "artifacts/01-grouping.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    "artifacts/02-quantity.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    "artifacts/03-type.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    "artifacts/04-numerals.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    "artifacts/05-linebreak.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        860
+      ]
+    },
+    "artifacts/06-word-image.png": {
+      "format": "PNG",
+      "size": [
+        1440,
+        1060
+      ]
+    },
+    "forward/overview.png": {
+      "format": "PNG",
+      "size": [
+        1864,
+        608
+      ]
+    },
+    "forward/single-path.png": {
+      "format": "PNG",
+      "size": [
+        900,
+        560
+      ]
+    },
+    "forward/state-01.png": {
+      "format": "PNG",
+      "size": [
+        900,
+        560
+      ]
+    },
+    "forward/state-02.png": {
+      "format": "PNG",
+      "size": [
+        900,
+        560
+      ]
+    }
+  },
+  "limitation": "file/geometry/rendered-text checks, not human perception or effectiveness"
+}

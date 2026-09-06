@@ -1,0 +1,58 @@
+[
+  {
+    "actual" : "PingFangSC-Regular",
+    "file" : "\/System\/Library\/PrivateFrameworks\/FontServices.framework\/Resources\/Reserved\/PingFangUI.ttc",
+    "length" : 27,
+    "requested" : "PingFangSC-Regular",
+    "start" : 0,
+    "text" : "连接 Bridge 2026：字形与 spacing。"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 27,
+    "requested" : "STSongti-SC-Regular",
+    "start" : 0,
+    "text" : "连接 Bridge 2026：字形与 spacing。"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 2,
+    "requested" : "Georgia",
+    "start" : 0,
+    "text" : "连接"
+  },
+  {
+    "actual" : "Georgia",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Georgia.ttf",
+    "length" : 12,
+    "requested" : "Georgia",
+    "start" : 2,
+    "text" : " Bridge 2026"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 4,
+    "requested" : "Georgia",
+    "start" : 14,
+    "text" : "：字形与"
+  },
+  {
+    "actual" : "Georgia",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Georgia.ttf",
+    "length" : 8,
+    "requested" : "Georgia",
+    "start" : 18,
+    "text" : " spacing"
+  },
+  {
+    "actual" : "STSongti-SC-Regular",
+    "file" : "\/System\/Library\/Fonts\/Supplemental\/Songti.ttc",
+    "length" : 1,
+    "requested" : "Georgia",
+    "start" : 26,
+    "text" : "。"
+  }
+]
