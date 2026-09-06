@@ -1,0 +1,61 @@
+{
+  "renderer": "AppKit, native font rendering",
+  "claimsExcluded": [
+    "human reading performance",
+    "old/new Skill causal effect",
+    "universal aesthetic ranking"
+  ],
+  "actualHistoricalBaseline": [
+    {
+      "file": "plate-k.png",
+      "baselineRegion": [
+        742,
+        225,
+        1388,
+        885
+      ],
+      "pixelEquality": true
+    },
+    {
+      "file": "plate-r.png",
+      "baselineRegion": [
+        52,
+        225,
+        698,
+        885
+      ],
+      "pixelEquality": true
+    }
+  ],
+  "revisionDifferenceBounds": [
+    145,
+    255,
+    503,
+    360
+  ],
+  "unchangedOutsideMiddleBand": true,
+  "exactCopyInAllThree": true,
+  "files": {
+    "plate-k.png": {
+      "size": [
+        646,
+        660
+      ],
+      "sha256": "917140a0d8677770b003e876cd2dd4a58d88eb047e4d3eabafda9a427dac4861"
+    },
+    "plate-m.png": {
+      "size": [
+        646,
+        660
+      ],
+      "sha256": "e3293516e458f29aa278ec2e9db364c2cbbfc69880b2a56ac52d3dd0cf1219d2"
+    },
+    "plate-r.png": {
+      "size": [
+        646,
+        660
+      ],
+      "sha256": "6e4571b0aa6fadf3bfb24bc3f22dc7ab13e02b47aaaee61d925a8a6e4fca7e8b"
+    }
+  }
+}

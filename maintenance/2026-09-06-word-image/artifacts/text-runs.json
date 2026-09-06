@@ -1,0 +1,52 @@
+[
+  {
+    "font" : "PingFangSC-Semibold",
+    "height" : 67,
+    "plate" : "plate-k",
+    "size" : 48,
+    "text" : "连接需要",
+    "width" : 556,
+    "x" : 48,
+    "y" : 91
+  },
+  {
+    "font" : "PingFangSC-Semibold",
+    "height" : 87,
+    "plate" : "plate-k",
+    "size" : 62,
+    "text" : "跨过间隔",
+    "width" : 385,
+    "x" : 145,
+    "y" : 266
+  },
+  {
+    "font" : "PingFangSC-Semibold",
+    "height" : 67,
+    "plate" : "plate-m",
+    "size" : 48,
+    "text" : "连接需要",
+    "width" : 556,
+    "x" : 48,
+    "y" : 91
+  },
+  {
+    "font" : "PingFangSC-Semibold",
+    "height" : 87,
+    "plate" : "plate-m",
+    "size" : 62,
+    "text" : "跨过间隔",
+    "width" : 385,
+    "x" : 183,
+    "y" : 266
+  },
+  {
+    "font" : "PingFangSC-Semibold",
+    "height" : 173,
+    "plate" : "plate-r",
+    "size" : 60,
+    "text" : "连接需要\n跨过间隔",
+    "width" : 550,
+    "x" : 48,
+    "y" : 50
+  }
+]

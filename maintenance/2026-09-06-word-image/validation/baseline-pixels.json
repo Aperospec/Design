@@ -1,0 +1,26 @@
+[
+  {
+    "file": "plate-k.png",
+    "oldFile": "2026-09-06-knowledge-upgrade/artifacts/06-word-image.png",
+    "oldRegion": [
+      742,
+      225,
+      1388,
+      885
+    ],
+    "pixelsEqual": true,
+    "differenceBounds": null
+  },
+  {
+    "file": "plate-r.png",
+    "oldFile": "2026-09-06-knowledge-upgrade/artifacts/06-word-image.png",
+    "oldRegion": [
+      52,
+      225,
+      698,
+      885
+    ],
+    "pixelsEqual": true,
+    "differenceBounds": null
+  }
+]
