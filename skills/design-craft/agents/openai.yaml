@@ -1,4 +1,4 @@
 interface:
   display_name: "Design Craft"
-  short_description: "Visual concepts, composition, typography and critique."
+  short_description: "Visual and UI design, interaction, typography and critique."
   default_prompt: "Use $design-craft to complete the professional work required by this project."

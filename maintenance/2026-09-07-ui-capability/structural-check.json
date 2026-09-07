@@ -1,0 +1,16 @@
+{
+  "old_files": 9,
+  "new_files": 12,
+  "removed": [],
+  "changed": [
+    "SKILL.md",
+    "agents/openai.yaml"
+  ],
+  "added": [
+    "references/interface-design.md",
+    "references/interface-method-basis.md",
+    "references/interface-validation.md"
+  ],
+  "broken_local_links": [],
+  "original_seven_reference_files_unchanged": true
+}

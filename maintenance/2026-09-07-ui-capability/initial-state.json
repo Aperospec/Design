@@ -1,0 +1,6 @@
+{
+  "head": "10b71d47eab7edfb70adc0cc0a01f311a5c6e6eb",
+  "preexisting_dirty_file": "AGENTS.md",
+  "preexisting_dirty_sha256": "9641f8b61e7d7c92a81b0e11154915bee44e08fa5f3ca969099b8b73551fd06d",
+  "handling": "Preserve and exclude unrelated preexisting AGENTS.md modification from this commit."
+}

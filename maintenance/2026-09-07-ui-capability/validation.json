@@ -1,0 +1,27 @@
+{
+  "skill_version": "1.2.0-alpha",
+  "skill_sha256": {
+    "SKILL.md": "cc4c96f729f95955578c665622c025944229317e88118a55f980fca04c9e580f",
+    "references/interface-method-basis.md": "73c5a20ae1fd02888e12df50a61f2ede34bd4b981d2c5e7bc4ce144d873fdea1",
+    "references/method-basis.md": "4808ec6c0592a5887349928791537e6867f7ea708cac3cfee698329bb62a1c7f",
+    "references/image-direction.md": "92994ba0979075b7ca465d0e1187457c50dc46e0aa27b61478c5f603cc0f5d84",
+    "references/composition.md": "e54ebe82b9236d3b00b3f909982b2ea856ad528a62cb5e0c1ebad9c8298eace5",
+    "references/critique.md": "961ba517a640195abef72d11499ab4abfb6971971ae9d267619fbe2c8e87474c",
+    "references/visual-concept.md": "463afaefbac36c117bc592384cf3ba0f7c0bf4640c07b6a6bfce0aff30bab3e0",
+    "references/typography.md": "ab2f64d357d7f2c57f4a15950a5d39ee992fe7f5cc268ea7ac8e5da4f2bcf86e",
+    "references/sequence.md": "c22720768470d255b05f546614f39e6897acb65e256beadd34d0ad98c31a253e",
+    "references/interface-validation.md": "f95e8d8abc9c84fa6b8b43428c752540a34c53d48baf6a3af45b4981bcf70376",
+    "references/interface-design.md": "bfb15578a550b5560f60cc43faec4dc08068502beb9cc6447cf5daa6f3448ff1",
+    "agents/openai.yaml": "9bf6257546c3907d2f85a5518aa348b8227dc580c6be56f89e59d2170b8670cc"
+  },
+  "artifacts": {
+    "counterexample/table.html": "80355ea5aff486eed44c7e4152ea1c43c649ac4ca4f1485c0af124c551a93a27",
+    "baseline/prototype.html": "08e38ba3c315b9ac095b39a8492e328414199c58c408c02489ba99420cb2d1e8",
+    "accepted/prototype.html": "0493f46fd3c078fe382c620ffb1976cd307320a791b9c3af6a4d722eeb72ab9b",
+    "forward/prototype.html": "867af3783f243ef914c671e723f125b7b40bff2ab01f66f329c5098bc14d2111"
+  },
+  "original_visual_references_unchanged": true,
+  "official_validator": "passed with PyYAML 6.0.2 isolated temp dependency",
+  "browser_evidence": "BROWSER_CHECKS.md",
+  "preexisting_agents_preserved": true
+}
